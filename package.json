@@ -91,7 +91,7 @@
     "eslint-plugin-flowtype": "^6.0.1",
     "eslint-plugin-jest-dom": "^4.0.1",
     "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-tailwindcss": "^3.4.4",
+    "eslint-plugin-tailwindcss": "^3.5.0",
     "eslint-plugin-testing-library": "^5.0.6",
     "ethereum-waffle": "^3.4.0",
     "husky": "^7.0.4",
